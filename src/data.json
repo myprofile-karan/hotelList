@@ -1,0 +1,253 @@
+[
+  {
+    "id": "1",
+    "category":"newyork",
+    "image": "./images/newyork1.jpg",
+    "title": "RCE Theaters - 907 S Blackford DE, Henderson",
+    "price": "$5000"
+  },
+  {
+    "id": "2",
+    "category":"newyork",
+    "image": "./images/newyork2.jpg",
+    "title": "RCE Theaters - 907 S Blackford DE, Henderson",
+    "price": "$4000"
+  },
+  {
+    "id": "3",
+    "category":"newyork",
+    "image": "./images/newyork3.jpg",
+    "title": "RCE Theaters - 907 S Blackford DE, Henderson",
+    "price": "$7000"
+  },
+  {
+    "id": "4",
+    "category":"newyork",
+    "image": "./images/newyork4.jpg",
+    "title": "RCE Theaters - 907 S Blackford DE, Henderson",
+    "price": "$5550"
+  },
+  {
+    "id": "5",
+    "category":"newyork",
+    "image": "./images/newyork5.jpg",
+    "title": "RCE Theaters - 907 S Blackford DE, Henderson",
+    "price": "$6550"
+  },
+  {
+    "id": "6",
+    "category":"newyork",
+    "image": "./images/newyork6.jpg",
+    "title": "RCE Theaters - 907 S Blackford DE, Henderson",
+    "price": "$7700"
+  },
+  {
+    "id": "7",
+    "category":"newyork",
+    "image": "./images/newyork7.jpg",
+    "title": "RCE Theaters - 907 S Blackford DE, Henderson",
+    "price": "$4500"
+  },
+  {
+    "id": "8",
+    "category":"newyork",
+    "image": "./images/newyork8.jpg",
+    "title": "RCE Theaters - 907 S Blackford DE, Henderson",
+    "price": "$4440"
+  },
+  {
+    "id": "9",
+    "category":"newyork",
+    "image": "./images/newyork9.jpg",
+    "title": "RCE Theaters - 907 S Blackford DE, Henderson",
+    "price": "$5600"
+  },
+  {
+    "id": "10",
+    "category":"mumbai",
+    "image": "./images/mumbai1.jpg",
+    "title": "Costco Wholeaale-1021 Oak Forest Ln, Myrtle Beach, SC",
+    "price": "$5000"
+  },
+  {
+    "id": "11",
+    "category":"mumbai",
+    "image": "./images/mumbai2.jpg",
+    "title": "Costco Wholeaale-1021 Oak Forest Ln, Myrtle Beach, SC",
+    "price": "$4000"
+  },
+  {
+    "id": "12",
+    "category":"mumbai",
+    "image": "./images/mumbai3.jpg",
+    "title": "Costco Wholeaale-1021 Oak Forest Ln, Myrtle Beach, SC",
+    "price": "$7000"
+  },
+  {
+    "id": "13",
+    "category":"mumbai",
+    "image": "./images/mumbai4.jpg",
+    "title": "Costco Wholeaale-1021 Oak Forest Ln, Myrtle Beach, SC",
+    "price": "$5550"
+  },
+  {
+    "id": "14",
+    "category":"mumbai",
+    "image": "./images/mumbai5.jpg",
+    "title": "Costco Wholeaale-1021 Oak Forest Ln, Myrtle Beach, SC",
+    "price": "$6550"
+  },
+  {
+    "id": "15",
+    "category":"mumbai",
+    "image": "./images/mumbai6.jpg",
+    "title": "Costco Wholeaale-1021 Oak Forest Ln, Myrtle Beach, SC",
+    "price": "$7700"
+  },
+  {
+    "id": "16",
+    "category":"mumbai",
+    "image": "./images/mumbai7.jpg",
+    "title": "Costco Wholeaale-1021 Oak Forest Ln, Myrtle Beach, SC",
+    "price": "$4500"
+  },
+  {
+    "id": "17",
+    "category":"mumbai",
+    "image": "./images/mumbai8.jpg",
+    "title": "Costco Wholeaale-1021 Oak Forest Ln, Myrtle Beach, SC",
+    "price": "$4440"
+  },
+  {
+    "id": "18",
+    "category":"mumbai",
+    "image": "./images/mumbai9.jpg",
+    "title": "Costco Wholeaale-1021 Oak Forest Ln, Myrtle Beach, SC",
+    "price": "$5600"
+  },
+  {
+    "id": "19",
+    "category":"paris",
+    "image": "./images/paris1.jpg",
+    "title": "Dollar General - 5416 Rock Quarry Rd, Raleigh, NC 27810",
+    "price": "$5000"
+  },
+  {
+    "id": "20",
+    "category":"paris",
+    "image": "./images/paris2.jpg",
+    "title": "Dollar General - 5416 Rock Quarry Rd, Raleigh, NC 27810",
+    "price": "$4000"
+  },
+  {
+    "id": "21",
+    "category":"paris",
+    "image": "./images/paris3.jpg",
+    "title": "Dollar General - 5416 Rock Quarry Rd, Raleigh, NC 27810",
+    "price": "$7000"
+  },
+  {
+    "id": "22",
+    "category":"paris",
+    "image": "./images/paris4.jpg",
+    "title": "Dollar General - 5416 Rock Quarry Rd, Raleigh, NC 27810",
+    "price": "$5550"
+  },
+  {
+    "id": "23",
+    "category":"paris",
+    "image": "./images/paris5.jpeg",
+    "title": "Dollar General - 5416 Rock Quarry Rd, Raleigh, NC 27810",
+    "price": "$6550"
+  },
+  {
+    "id": "24",
+    "category":"paris",
+    "image": "./images/paris6.jpg",
+    "title": "Dollar General - 5416 Rock Quarry Rd, Raleigh, NC 27810",
+    "price": "$7700"
+  },
+  {
+    "id": "25",
+    "category":"paris",
+    "image": "./images/paris7.jpg",
+    "title": "Dollar General - 5416 Rock Quarry Rd, Raleigh, NC 27810",
+    "price": "$4500"
+  },
+  {
+    "id": "26",
+    "category":"paris",
+    "image": "./images/paris8.jpg",
+    "title": "Dollar General - 5416 Rock Quarry Rd, Raleigh, NC 27810",
+    "price": "$4440"
+  },
+  {
+    "id": "27","category":"paris",
+    "image": "./images/paris9.jpg",
+    "title": "Dollar General - 5416 Rock Quarry Rd, Raleigh, NC 27810",
+    "price": "$5600"
+  },
+  {
+    "id": "28",
+    "category":"london",
+    "image": "./images/london1.jpg",
+    "title": "Spring Lane CInemas-1351 Plaza Bivd, Sanford, NC 27330",
+    "price": "$5000"
+  },
+  {
+    "id": "29",
+    "category":"london",
+    "image": "./images/london2.jpg",
+    "title": "Spring Lane CInemas-1351 Plaza Bivd, Sanford, NC 27330",
+    "price": "$4000"
+  },
+  {
+    "id": "30",
+    "category":"london",
+    "image": "./images/london3.jpg",
+    "title": "Spring Lane CInemas-1351 Plaza Bivd, Sanford, NC 27330",
+    "price": "$7000"
+  },
+  {
+    "id": "31",
+    "category":"london",
+    "image": "./images/london4.jpg",
+    "title": "Spring Lane CInemas-1351 Plaza Bivd, Sanford, NC 27330",
+    "price": "$5550"
+  },
+  {
+    "id": "32",
+    "category":"london",
+    "image": "./images/london5.jpg",
+    "title": "Spring Lane CInemas-1351 Plaza Bivd, Sanford, NC 27330",
+    "price": "$6550"
+  },
+  {
+    "id": "33",
+    "category":"london",
+    "image": "./images/london6.jpg",
+    "title": "Spring Lane CInemas-1351 Plaza Bivd, Sanford, NC 27330",
+    "price": "$7700"
+  },
+  {
+    "id": "34",
+    "category":"london",
+    "image": "./images/london7.jpg",
+    "title": "Spring Lane CInemas-1351 Plaza Bivd, Sanford, NC 27330",
+    "price": "$4500"
+  },
+  {
+    "id": "35",
+    "category":"london",
+    "image": "./images/london8.jpg",
+    "title": "Spring Lane CInemas-1351 Plaza Bivd, Sanford, NC 27330",
+    "price": "$4440"
+  },
+  {
+    "id": "36",
+    "category":"london",
+    "image": "./images/london9.jpg",
+    "title": "Spring Lane CInemas-1351 Plaza Bivd, Sanford, NC 27330",
+    "price": "$5600"
+  }
+]
